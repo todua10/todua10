@@ -62,13 +62,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=todua10&theme=ambient-gradient&border_radius=5&locale=ru&mode=weekly&card_width=480&border=8000A1" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=todua10&theme=ambient-gradient&border_radius=5&mode=weekly&card_width=480&border=8000A1" alt="GitHub Streak" /></a>
     </td>
     <td>
-      <img width="470px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=todua10&layout=compact&theme=vision-friendly-dark" />
+      <img width="470px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=todua10&layout=compact&theme=ambient_gradient" />
     </td>
     <td>
-      <img width="470px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=todua10&show_icons=true" />
+      <img width="470px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=todua10&show_icons=true&theme=ambient_gradient" />
     </td>
   </tr>
 </table>
