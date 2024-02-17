@@ -56,6 +56,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="opengl" alt="opengl" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp
   </div>
+  
+## 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Codewars:
+
+![codewars](https://www.codewars.com/users/todua10/badges/large)
 
 ## :chart_with_upwards_trend: Статистика GitHub:
 
